@@ -5,12 +5,12 @@
 	width:200px;
 	height:200px;
 	background-color:lightblue;
-	
+	margin:10px;
 	font-size:50px;
 	
 }
 .holder{
 	display:flex;
-    justify-content:space-between;
+    justify-content:space-evenly;
 	flex-wrap:wrap;
 }
